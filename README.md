@@ -23,13 +23,13 @@ When not working on a project or thinking about coding, I would most likely be w
 <!-- - 🔭 I’m currently working on ... -->
 <!-- - 🌱 I’m currently learning ... -->
 <!-- - 🤔 I’m looking for help with ... -->
-- I am from Nigeria and currently looking for new remote opportunities.
+- I am currently looking for new remote opportunities.
 - 👨🏾‍💻 I’m looking to collaborate on Open Source Projects
-- 🔭 I’m currently working on React projects.
+- 🌱 I’m currently learning React.js and React Native
 - 👯 I’m looking to collaborate on Ionic/Angular and React projects.
 - 💬 Ask me about Software Development
-- 📫 How to reach me: DM [Twitter](https://twitter.com/PSCON3) || [LinkedIn](https://www.linkedin.com/in/ekunola-paul-42712b1aa/)|| Email: ekunolapaul@gmail.com
-- ⚡ Fun fact: I have 1years of remote work experience with devs from all over the world.
+- 📫 How to reach me:  [Twitter](https://twitter.com/PSCON3) || [LinkedIn](https://www.linkedin.com/in/ekunola-paul-42712b1aa/) || Email: ekunolapaul@gmail.com
+- ⚡ Fun fact:  I'm really not a hard guy 😄. I enjoy watching good movies and relaxing at the beach.
 
 
 **Languages and Tools:**  
