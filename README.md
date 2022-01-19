@@ -29,7 +29,7 @@ When not working on a project or thinking about coding, I would most likely be w
 - 👯 I’m looking to collaborate on Ionic/Angular and React projects.
 - 💬 Ask me about Software Development
 - 📫 How to reach me:  [Twitter](https://twitter.com/PSCON3) || [LinkedIn](https://www.linkedin.com/in/ekunola-paul-42712b1aa/) || Email: ekunolapaul@gmail.com
-- ⚡ Fun fact:  I'm really not a hard guy 😄. I enjoy watching good movies and relaxing at the beach.
+- ⚡ Fun fact:  I'm really not a hard guy 😄. I enjoy watching good movies.
 
 
 **Languages and Tools:**  
