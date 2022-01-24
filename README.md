@@ -2,7 +2,6 @@
 <p align="center">
   <a href="https://ekunola-paul.netlify.app/">Website</a> •
   <a href="https://www.linkedin.com/in/ekunola-paul-42712b1aa/">LinkedIn</a> •
-
   <a href="https://twitter.com/PSCON3">Twitter</a>
 </p>
 
