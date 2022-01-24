@@ -1,8 +1,8 @@
 <h2 align="center"> Hey there, I'm Ekunola Paul 👋🏾</h2>
 <p align="center">
-  <a href=#!>Website</a> •
+  <a href="https://ekunola-paul.netlify.app/">Website</a> •
   <a href="https://www.linkedin.com/in/ekunola-paul-42712b1aa/">LinkedIn</a> •
-  <a href=#!>Blog</a> •
+
   <a href="https://twitter.com/PSCON3">Twitter</a>
 </p>
 
@@ -35,7 +35,6 @@ When not working on a project or thinking about coding, I would most likely be w
 **Languages and Tools:**  
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
