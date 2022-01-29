@@ -41,4 +41,3 @@ When not working on a project or thinking about coding, I would most likely be w
 
 ![Paul's GitHub stats](https://github-readme-stats.vercel.app/api?username=pscon&show_icons=true)
 
-
