@@ -1,4 +1,11 @@
-<h2 align="center"> Hey there, I'm Ekunola Paul 👋🏾</h2>
+
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello!+👋;Ekunola+Paul+here....;Happy+to+meet+you+🥰!&center=true&size=30">
+  </a>
+</h1>
+
+<!-- <h2 align="center"> Hey there, I'm Ekunola Paul 👋🏾</h2> -->
 <p align="center">
   <a href="https://ekunola-paul.netlify.app/">Website</a> •
   <a href="https://www.linkedin.com/in/ekunola-paul-42712b1aa/">LinkedIn</a> •
