@@ -8,7 +8,7 @@
 <!-- <h2 align="center"> Hey there, I'm Ekunola Paul 👋🏾</h2> -->
 <p align="center">
   
-[![Website Badge](https://img.shields.io/badge/Website-0077B5?style=for-the-badge&logo=website&logoColor=white&link=https://www.linkedin.com/in/m-bakr/)](https://ekunola-paul.netlify.app/)
+[![Portfolio Badge](https://img.shields.io/badge/Portfolio-0077B5?style=for-the-badge&logo=Portfolio&logoColor=white&link=https://www.linkedin.com/in/m-bakr/)](https://ekunola-paul.netlify.app/)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/m-bakr/)](https://www.linkedin.com/in/ekunola-paul-42712b1aa/)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/bkshjs)](https://twitter.com/PSCON3)
 <!--   <a href="https://ekunola-paul.netlify.app/">Website</a> •
