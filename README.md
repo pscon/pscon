@@ -44,7 +44,7 @@ When not working on a project or thinking about coding, I would most likely be w
 
 
 ### Languages and Tools:
-![ECMAscript Badge](https://img.shields.io/badge/ECMAScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Redux Badge](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![Netlify Badge](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
