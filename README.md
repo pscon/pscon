@@ -1,9 +1,9 @@
 
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello!+👋;Ekunola+Paul+here....;Happy+to+meet+you+🥰!&center=true&size=30">
-  </a>
-</h1>
+<h3 align="center">Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">, <i>I'm Ekunola Paul</i>.👨🏾‍💻 </h3>
+
+<p align="center">
+  <a href="https://github.com/pscon/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=I%20Am%20a%20FrontEnd%20Engineer%20;Experienced%20JavaScript%2FReact%20Developer;Over%202%2B%20years%20of%20Professional%20Experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=550&height=45&color=f75c7e&vCenter=true&size=22&pause=1000"></a>
+</p>
 
 <!-- <h2 align="center"> Hey there, I'm Ekunola Paul 👋🏾</h2> -->
 <p align="center">
@@ -35,11 +35,11 @@ When not working on a project or thinking about coding, I would most likely be w
 <!-- - 🤔 I’m looking for help with ... -->
 - I am currently looking for new remote opportunities.
 - 👨🏾‍💻 I’m looking to collaborate on Open Source Projects
-- 🌱 I’m currently learning React.js and React Native
+- 🌱 I’m currently learning Node.js and React Native
 - 👯 I’m looking to collaborate on React.js and React Native projects.
 - 💬 Ask me about Software Development
 - 📫 How to reach me:  [Twitter](https://twitter.com/PSCON3) || [LinkedIn](https://www.linkedin.com/in/ekunola-paul-42712b1aa/) || Email: ekunolapaul@gmail.com
-- ⚡ Fun fact:  I'm really not a hard guy 😄. I enjoy watching good movies.
+- ⚡ Fun fact: I enjoy watching good movies 😄.
 
 
 
