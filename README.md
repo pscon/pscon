@@ -25,9 +25,6 @@ Here are some ideas to get you started:
 -->
 
 I'm a Frontend Engineer, [Open-source contributor](https://github.com/pscon), and [Technical Writer](https://pscon.hashnode.dev) based in Lagos, Nigeria. I am passionate about web technologies and making the web accessible to everyone.
-
-When not working on a project or thinking about coding, I would most likely be watching Movies on Netflix, playing video games, sight-seeing or spending time with family and friends.
-
 <!-- **I am currently looking for a software engineer position with an exciting company.** -->
 
 <!-- - 🔭 I’m currently working on ... -->
