@@ -55,8 +55,12 @@ I'm a Frontend Engineer, [Open-source contributor](https://github.com/pscon), an
  ![Nodejs Badge](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=pscon&show_icons=true&include_all_commits=true&hide_border=true" alt="Pscon GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pscon&langs_count=8&layout=compact&hide_border=true" alt="Pscon GitHub stats" /> |
+
+<!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=pscon&show_icons=true&include_all_commits=true&hide_border=true" alt="Pscon GitHub stats" /> -->
+|  <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=pscon&show_icons=true&locale=en" alt="pscon" /></p> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pscon&langs_count=8&layout=compact&hide_border=true" alt="Pscon GitHub stats" /> |
 | ------------- | ------------- |
+
+
 
 
 ### My Blog
