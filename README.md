@@ -72,6 +72,7 @@ I'm a Frontend Engineer, [Open-source contributor](https://github.com/pscon), an
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
-- [Implementing Counter App With useReducer: A Retrospective Technical Review](https://pscon.hashnode.dev/implementing-counter-app-with-usereducer-a-retrospective-technical-review)
+- [Elevate Your Dev Game: 10 Must-Have Chrome and VS Code Extensions](https://pscon.hashnode.dev/elevate-your-dev-game-10-must-have-chrome-and-vs-code-extensions)
 - [Hosting React App On Firebase](https://pscon.hashnode.dev/hosting-react-app-on-firebase)
+- [Implementing Counter App With useReducer: A Retrospective Technical Review](https://pscon.hashnode.dev/implementing-counter-app-with-usereducer-a-retrospective-technical-review)
 <!-- BLOG-POST-LIST:END -->
