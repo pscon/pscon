@@ -2,7 +2,7 @@
 <h3 align="center">Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">, <i>I'm Ekunola Paul</i>.👨🏾‍💻 </h3>
 
 <p align="center">
-  <a href="https://github.com/pscon/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=I%20Am%20a%20FrontEnd%20Engineer%20;Experienced%20JavaScript%2FReact%20Developer;Over%202%2B%20years%20of%20Professional%20Experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=550&height=45&color=f75c7e&vCenter=true&size=22&pause=1000"></a>
+  <a href="https://github.com/pscon/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=I%20Am%20a%20FrontEnd%20Engineer%20;Experienced%20JavaScript%2FReact%20Developer;Over%203%2B%20years%20of%20Professional%20Experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=550&height=45&color=f75c7e&vCenter=true&size=22&pause=1000"></a>
 </p>
 
 <!-- <h2 align="center"> Hey there, I'm Ekunola Paul 👋🏾</h2> -->
