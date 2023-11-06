@@ -32,7 +32,7 @@ I'm a Frontend Engineer, [Open-source contributor](https://github.com/pscon), an
 <!-- - 🤔 I’m looking for help with ... -->
 - I am currently looking for new remote opportunities.
 - 👨🏾‍💻 I’m looking to collaborate on Open Source Projects
-- 🌱 I’m currently learning Node.js and React Native
+- 🌱 I’m currently learning Express, Node.js and React Native
 - 👯 I’m looking to collaborate on React.js and React Native projects.
 - 💬 Ask me about Software Development
 - 📫 How to reach me:  [Twitter](https://twitter.com/PSCON3) || [LinkedIn](https://www.linkedin.com/in/ekunola-paul-42712b1aa/) || Email: ekunolapaul@gmail.com
