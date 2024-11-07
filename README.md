@@ -8,7 +8,7 @@
 
 <!-- <h2 align="center"> Hey there, I'm Ekunola Paul 👋🏾</h2> -->
 
-<img src="https://github.com/user-attachments/assets/34d1cf07-35c1-4be8-b773-f55c7688df50" alt="Profile Banner" width="100%" />
+# <img src="https://github.com/user-attachments/assets/34d1cf07-35c1-4be8-b773-f55c7688df50" alt="Profile Banner" width="100%" />
 
 
 
