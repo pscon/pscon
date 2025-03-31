@@ -24,7 +24,7 @@
 </p>
 
 
-### Software Engineer (Frontend) | Open Source Contributor | Technical Writer
+### Software Engineer | Open Source Contributor | Technical Writer
 
 - Passionate about creating seamless user experiences with modern frontend technologies.
 - I am committed to excellence and strive for pixel-perfect design and seamless functionality in every project.
