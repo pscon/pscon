@@ -16,7 +16,7 @@
 
 <p align="center">
   
-[![Portfolio Badge](https://img.shields.io/badge/Portfolio-0077B5?style=for-the-badge&logo=Portfolio&logoColor=white&link=https://ekunolapaul.netlify.app/)](https://ekunolapaul.netlify.app/)
+[![Portfolio Badge](https://img.shields.io/badge/Portfolio-0077B5?style=for-the-badge&logo=Portfolio&logoColor=white&link=https://ekunolapaul.vercel.app/)](https://ekunolapaul.vercel.app/)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/ekunola-paul-42712b1aa/)](https://www.linkedin.com/in/ekunola-paul-42712b1aa/)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/PSCON3)](https://twitter.com/PSCON3)
 [![Hashnode Badge](https://img.shields.io/badge/Hashnode-00C8F8?style=for-the-badge&logo=hashnode&logoColor=white&link=https://hashnode.com/@Pscon)](https://hashnode.com/@Pscon)
@@ -35,7 +35,7 @@
 
 - 📫 **How to reach me:** [Twitter](https://twitter.com/PSCON3) || [LinkedIn](https://www.linkedin.com/in/ekunola-paul-42712b1aa/) || Email: ekunolapaul@gmail.com
 
-For more about my work, check out my [PORTFOLIO](https://ekunolapaul.netlify.app/).
+For more about my work, check out my [PORTFOLIO](https://ekunolapaul.vercel.app/).
 
 
 
